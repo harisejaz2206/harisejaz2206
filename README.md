@@ -1,10 +1,48 @@
-- 👋 Hi, I’m Haris
-- 👀 I’m interested in React.js, Flutter mobile app dev, Tailwind CSS, and other fancy tech stacks related to web development.
-- 🌱 I’m currently learning advanced React.js concepts, Flutter animations, mastering Tailwind CSS.
-- 💞️ I’m looking to collaborate on projects involving React.js, Flutter, Tailwind CSS, and other cutting-edge web technologies to build innovative and responsive applications.
+---
 
-📫 You can reach me on 
--   harisejaz593@gmail.com
--   https://www.linkedin.com/in/harisejaz22/
--   https://twitter.com/lifeofharis
--   https://www.instagram.com/harisss.22/
+🚀 **Haris' Skill Arsenal**
+
+---
+
+### 🎨 **Frontend Development**
+- **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
+- **Frameworks**: `React.js | Next.js | Redux Toolkit | ShadCN`
+- **State Management**: `Redux | Redux Toolkit | MobX`
+- **Styling & UI**: `Tailwind CSS`
+- **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
+
+---
+
+### 🛠 **Backend Development**
+- **Languages**: `Node.js`
+- **Frameworks**: `Express.js | Nest.js`
+- **API Design**: `RESTful APIs`
+
+---
+
+### 🗃 **Databases**
+- **NoSQL**: `MongoDB | Mongoose`
+- **SQL**: `MySQL`
+
+---
+
+### 🛡 **Authentication and Security**
+- **Token-Based**: `JWT (JSON Web Tokens)`
+- **OAuth**: `OAuth 2.0`
+- **Cookie-Based**: `Cookie Authentication`
+
+
+---
+
+### 🚀 **Deployment and Hosting**
+- **Platforms**: `Render | Heroku`
+- **Containerization**: `Docker`
+  
+---
+
+📫 You can reach out to me on
+
+- harisejaz593@gmail.com
+- https://www.linkedin.com/in/harisejaz22/
+- https://twitter.com/lifeofharis
+- https://www.instagram.com/harisss.22/
