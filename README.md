@@ -6,7 +6,7 @@
 
 ### 🎨 **Frontend Development**
 - **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
-- **Frameworks**: `React.js | Next.js | Redux Toolkit | ShadCN`
+- **Frameworks**: `React.js | Next.js`
 - **State Management**: `Redux | Redux Toolkit | MobX`
 - **Styling & UI**: `Tailwind CSS`
 - **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
@@ -28,15 +28,14 @@
 
 ### 🛡 **Authentication and Security**
 - **Token-Based**: `JWT (JSON Web Tokens)`
-- **OAuth**: `OAuth 2.0`
 - **Cookie-Based**: `Cookie Authentication`
+- **OAuth**: `OAuth 2.0`
 
 
 ---
 
 ### 🚀 **Deployment and Hosting**
 - **Platforms**: `Render | Heroku`
-- **Containerization**: `Docker`
   
 ---
 
