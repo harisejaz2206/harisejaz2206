@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 **Deployment and Hosting**
-- **Platforms**: `Render | Heroku`
+- **Platforms**: `Render | Heroku | Firebase`
   
 ---
 
