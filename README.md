@@ -7,7 +7,7 @@
 ### 🎨 **Frontend Development**
 - **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
 - **Frameworks**: `React.js | Next.js`
-- **State Management**: `Redux | Redux Toolkit | MobX`
+- **State Management**: `Redux | Redux Toolkit `
 - **Styling & UI**: `Tailwind CSS`
 - **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
 
@@ -22,7 +22,7 @@
 
 ### 🗃 **Databases**
 - **NoSQL**: `MongoDB | Mongoose`
-- **SQL**: `MySQL`
+- **SQL**: `PostgreSQL`
 
 ---
 
