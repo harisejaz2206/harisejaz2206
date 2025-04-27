@@ -13,7 +13,7 @@
 
 ## About Me 🚀
 
-Associate Software Engineer at Innovent Tech Solutions, specializing in IoT and enterprise solutions. Passionate about building scalable applications that make a difference. Currently working on innovative solutions in Dubai, UAE.
+Software Engineer at Septem Systems, specializing in IoT and enterprise solutions. Passionate about building scalable applications that make a difference.
 
 ## Tech Stack 💻
 
